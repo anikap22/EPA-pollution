@@ -1,2 +1,2 @@
 # EPA-pollution
-visualize EPA pollution data
+visualize EPA pollution data in Python using the seaborn package
